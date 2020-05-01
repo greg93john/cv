@@ -1,15 +1,59 @@
 body {
-  background-color: #9896f1;
+  margin: 0;
+  text-align: center;
 }
 
-hr  {
-  border-style: none;
+div {
+  background-color: #aeefec;
+  margin: 0;
 }
 
 h1 {
-  color: #dcd6f7;
+  display: inline-block;
+  font-family: 'Bree Serif', sans-serif;
+  font-size: 5.625rem;
+  margin: 3.125rem auto 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
-  color: #dcd6f7;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.footer-link {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile-image {
+  height: 200px;
+  width: 200px;
+}
+
+.subtitle{
+  font-size: 2.5rem;
 }
