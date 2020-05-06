@@ -52,7 +52,8 @@ p {
 }
 
 .contact-me {
-
+  margin: auto;
+  width: 40%;
 }
 
 .final-text {
