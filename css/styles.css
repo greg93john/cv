@@ -29,7 +29,9 @@ h3 {
 }
 
 hr {
-  height: 0;
+  margin: 100px auto;
+  border: dotted #4d3e3e 6px;
+  border-bottom: none;
   width: 5%;
 }
 
@@ -39,7 +41,7 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 250px;
   bottom: 300px;
 }
 
