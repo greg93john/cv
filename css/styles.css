@@ -55,6 +55,7 @@ p {
   font-family: 'Montserrat', sans-serif;
   color: #FFFFFF !important;
   font-size: 20px;
+  text-decoration: none;
   text-shadow: 1px 1px 0 #7CACDE;
   box-shadow: 1px 1px 1px #BEE2F9;
   padding: 10px 25px;
